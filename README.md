@@ -1,11 +1,17 @@
 James' dotfiles ! 
 
 Required programmes:
+
 BSPWM
+
 SXHKD
+
 Dmenu
+
 Compton
+
 Bar
+
 
 
 ...
