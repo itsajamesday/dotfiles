@@ -23,7 +23,7 @@ xset +fp ${HOME}/.fonts
 xset fp rehash
 xrandr --output DFP10 --auto --primary
 xrandr --output DFP11 --auto --right-of DFP10
-Esetroot -s "/home/itsajamesday/.config/bspwm/wind-speakers-3840x1080-wallpaper-1612930.jpg"
+Esetroot -s "/home/itsajamesday/.config/bspwm/Wallpaper.jpg"
 panel &
 sxhkd &
 exec bspwm
